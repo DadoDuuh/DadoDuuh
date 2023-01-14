@@ -1,7 +1,7 @@
 
 <div style="display: inline_block">
   <h1 align='center'>Hello World!</h1>
-  <img align='right' width='105em' src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4bc8238a-57c9-470b-9cbf-f0ddda6065af/dervhse-5b9125c3-b334-4eda-89b1-5413cde374f0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRiYzgyMzhhLTU3YzktNDcwYi05Y2JmLWYwZGRkYTYwNjVhZlwvZGVydmhzZS01YjkxMjVjMy1iMzM0LTRlZGEtODliMS01NDEzY2RlMzc0ZjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ITUh-g7aQIp2Nf48mj9O51D8gjqC9hYD2ZgCHqFBuQ8'>
+  <img align='right' width='100em' src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4bc8238a-57c9-470b-9cbf-f0ddda6065af/dervhse-5b9125c3-b334-4eda-89b1-5413cde374f0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRiYzgyMzhhLTU3YzktNDcwYi05Y2JmLWYwZGRkYTYwNjVhZlwvZGVydmhzZS01YjkxMjVjMy1iMzM0LTRlZGEtODliMS01NDEzY2RlMzc0ZjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ITUh-g7aQIp2Nf48mj9O51D8gjqC9hYD2ZgCHqFBuQ8'>
   <img align='left' width='120em' src='https://icon-library.com/images/cuphead-icon/cuphead-icon-13.jpg'>
   <h4 align='center'>Oii✌, eu sou o Edu, desenvolvedor web em constante aprendizado, eterno estudante e apaixonado por programação💖! Amo aprender coisas novas, me autodesenvolver técnica e mentalmente para que um dia possa repassar esse conhecimento para outra pessoa✨.</h4>
   <h4 align='center'>Ainda sou iniciante, mas um dia chegarei no topo!🔥</h4>
