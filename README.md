@@ -15,6 +15,7 @@
   <div align='left'>
    <div align='left'>
     <h2>Languages🉐</h2>
+     <img width="200em" align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1ad707da-afe8-4e1d-a205-d082d01e06a0/d45xyuu-f0ad0800-61b8-4161-9ca8-b9d24abfbec6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFhZDcwN2RhLWFmZTgtNGUxZC1hMjA1LWQwODJkMDFlMDZhMFwvZDQ1eHl1dS1mMGFkMDgwMC02MWI4LTQxNjEtOWNhOC1iOWQyNGFiZmJlYzYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BGtiFtnHX__bH0Z62x4SsDEpY01e9D1By6lgk8uAkFM">
     <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
