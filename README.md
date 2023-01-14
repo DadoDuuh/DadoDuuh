@@ -26,7 +26,7 @@
     <img align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
    </div>
    <div align=left'>
-    <h2>Frameworks & libs🔧<h2/>
+    <h2>Frameworks & libraries🔧<h2/>
     <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img align="center" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
@@ -40,24 +40,3 @@
     <img height='180em' src="https://github-readme-streak-stats.herokuapp.com/?user=DadoDuuh&theme=dracula"
   </div>
 </div>
-
-
-#
-
-
-
-
-<!--
-**DadoDuuh/DadoDuuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
